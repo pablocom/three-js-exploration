@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/pablocom/three-js-exploration#readme",
   "dependencies": {
+    "dat.gui": "^0.7.9",
     "three": "^0.166.1"
   },
   "devDependencies": {
