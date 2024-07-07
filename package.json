@@ -1,0 +1,30 @@
+{
+  "name": "three-js-exploration",
+  "version": "1.0.0",
+  "description": "My first Three.js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablocom/three-js-exploration.git"
+  },
+  "keywords": [
+    "three.js",
+    "javascript",
+    "3d"
+  ],
+  "author": "pablocom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pablocom/three-js-exploration/issues"
+  },
+  "homepage": "https://github.com/pablocom/three-js-exploration#readme",
+  "dependencies": {
+    "three": "^0.166.1"
+  },
+  "devDependencies": {
+    "vite": "^5.3.3"
+  }
+}
